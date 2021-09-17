@@ -161,7 +161,7 @@ sections:
   - type: blog_feed_section
     title: What's New
     blog_feed_cols: three
-    enable_cards: true
+    enable_cards: false
     show_recent: false
     recent_count: 3
     show_image: true
