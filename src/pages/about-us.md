@@ -1,5 +1,5 @@
 ---
-title: Who are we
+title: Who We Are
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
