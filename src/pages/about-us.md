@@ -2,7 +2,6 @@
 title: Who we are
 sections:
   - title: Who Are we
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
