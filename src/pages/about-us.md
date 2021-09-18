@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Who are we
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
