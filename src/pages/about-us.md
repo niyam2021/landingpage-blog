@@ -8,7 +8,7 @@ sections:
         title_align: left
         content: |
           Co-Founder
-        content_align: center
+        content_align: right
         actions: []
         actions_align: left
         actions_width: auto
