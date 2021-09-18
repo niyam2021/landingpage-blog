@@ -12,7 +12,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: Anmol Garg
         image_position: top
         image_width: thirty-three
         image_align: center
