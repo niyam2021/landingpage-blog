@@ -2,7 +2,6 @@
 title: Who we are
 sections:
   - title: Our Team
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
