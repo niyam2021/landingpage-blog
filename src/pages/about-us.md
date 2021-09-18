@@ -78,7 +78,7 @@ sections:
     title: Join the Team
     content: Start achieving your goals today!
     actions:
-      - label: Contact us
+      - label: Contact Us
         url: /thank-you
         style: primary
     actions_width: fourty
