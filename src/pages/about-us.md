@@ -4,7 +4,7 @@ sections:
   - title: Our Team
     actions: []
     grid_items:
-      - title: Anmol
+      - title: Anmol Garg
         title_align: center
         content: |
           Co-Founder
@@ -18,7 +18,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: images/feature-3.png
-      - title: Gaurav
+      - title: Gaurav Arora
         title_align: center
         content: |
           Co-Founder
