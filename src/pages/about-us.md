@@ -5,7 +5,7 @@ sections:
     actions: []
     grid_items:
       - title: Anmol
-        title_align: left
+        title_align: center
         content: |
           Co-Founder
         content_align: right
