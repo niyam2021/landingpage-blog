@@ -4,7 +4,7 @@ sections:
   - title: Our Team
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Anmol
         subtitle: lorem-ipsum
         title_align: left
         content: >-
