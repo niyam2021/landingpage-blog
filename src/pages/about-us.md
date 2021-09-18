@@ -64,7 +64,7 @@ sections:
     title: Join the team
     content: Start achieving your goals today!
     actions:
-      - label: Try for free
+      - label: Contact us
         url: /thank-you
         style: primary
     actions_width: fourty
