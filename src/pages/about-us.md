@@ -60,7 +60,6 @@ sections:
         image_align: center
         image_has_padding: false
         image: images/feature-2.png
-    
   - type: cta_section
     title: Ready to get started?
     content: Start achieving your goals today!
