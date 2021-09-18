@@ -61,7 +61,7 @@ sections:
         image_has_padding: false
         image: images/feature-2.png
   - type: cta_section
-    title: Ready to get started?
+    title: Join the team
     content: Start achieving your goals today!
     actions:
       - label: Try for free
