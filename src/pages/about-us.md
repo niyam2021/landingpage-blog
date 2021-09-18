@@ -18,6 +18,20 @@ sections:
         image_align: center
         image_has_padding: false
         image: images/feature-3.png
+      - title: Anmol
+        title_align: center
+        content: |
+          Co-Founder
+        content_align: center
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: thirty-three
+        image_align: center
+        image_has_padding: false
+        image: images/feature-3.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: medium
