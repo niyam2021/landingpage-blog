@@ -61,8 +61,7 @@ sections:
         image_has_padding: false
         image: images/feature-2.png
   - type: cta_section
-    title: Ready to get started?
-    content: Start achieving your goals today!
+    title: Ready to get started? content: Start achieving your goals today!
     actions:
       - label: Try for free
         url: /thank-you
