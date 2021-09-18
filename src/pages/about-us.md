@@ -26,7 +26,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: Gaurav Arora
         image_position: top
         image_width: thirty-three
         image_align: center
