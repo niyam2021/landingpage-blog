@@ -14,7 +14,7 @@ sections:
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
-        image_width: fifty
+        image_width: thirty-three
         image_align: center
         image_has_padding: false
         image: images/feature-3.png
