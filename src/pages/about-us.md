@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Who We are
 sections:
   - title: Our Team
     subtitle: lorem-ipsum
