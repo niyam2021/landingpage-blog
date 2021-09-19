@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Achievhdwe your Goals!
+    title: Achieve your Goals!
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
