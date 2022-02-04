@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Small beginnings, Big Dreams'
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Celebrating financial freedom with Niyam
     actions:
       - label: Try for free
         url: /pricing
