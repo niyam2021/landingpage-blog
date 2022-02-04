@@ -119,10 +119,9 @@ sections:
         image_has_padding: true
       - title: Strategy Development
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          If you have a profitable strategy, an idea, or just need help with
+          backtesting, reach out to us. We are available.
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
