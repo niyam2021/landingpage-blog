@@ -118,17 +118,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: What not to do
-        title_align: left
-        content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
-        content_align: left
-        image: images/icon-2.svg
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
       - title: Activity streak
         title_align: left
         content: >-
