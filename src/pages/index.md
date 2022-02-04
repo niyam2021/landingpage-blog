@@ -106,7 +106,7 @@ sections:
   - type: grid_section
     title: Services
     grid_items:
-      - title: What to Do
+      - title: Automated Trading
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
