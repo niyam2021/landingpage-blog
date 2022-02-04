@@ -108,10 +108,9 @@ sections:
     grid_items:
       - title: Automated Trading
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: >
+          Advanced auto trading system, that intelligently trades a profitable
+          system without human interference.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
