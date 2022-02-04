@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Small beginnings,'
+    title: 'Small beginnings, Big Dreams'
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
